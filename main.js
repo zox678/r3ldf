@@ -35,7 +35,7 @@ bot.on('ready', () => {
     console.log('Bot Ready !');
 });
 
-bot.login("RWT67ZOu6xC615DSKQvr69TStf4dLJDD")
+bot.login(tokerm)
 
 
 bot.on("guildMemberAdd", member => {
